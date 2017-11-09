@@ -1,8 +1,6 @@
 @extends('index')
 @section('title','Home Page')
-@section('css')
-<link rel="stylesheet" href="hacklike/css/style.css">
-@endsection
+
 @section('content')
 	<div class="banner">
 		<div class="container">
